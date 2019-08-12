@@ -9,3 +9,6 @@
 *.tfvars
 
 *.txt
+
+.idea
+.idea/*.xml
