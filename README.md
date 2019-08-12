@@ -1,5 +1,8 @@
 # terraform-aws-examples
-Examples with Terraform in AWS.
+Examples with Terraform:
+
+1. Ubuntu EC2 in AWS.
+2. Mario Bros with Docker and Terraform.
 
 ## Installing terraform
 
